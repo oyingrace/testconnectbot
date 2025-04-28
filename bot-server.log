@@ -1,0 +1,71 @@
+2025-04-28 01:05:15,731 - __main__ - ERROR - MongoDB URI not found in environment variables!
+2025-04-28 01:05:15,743 - __main__ - INFO - Bot server starting up...
+2025-04-28 01:05:15,994 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2025-04-28 01:05:15,994 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 01:06:43,547 - __main__ - INFO - Bot server starting up...
+2025-04-28 01:06:43,551 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2025-04-28 01:06:43,551 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 01:15:06,660 - __main__ - INFO - Starting bot for user: oyingrace307@gmail.com
+2025-04-28 01:15:06,675 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 01:15:06] "POST /run-bot HTTP/1.1" 200 -
+2025-04-28 01:15:15,811 - __main__ - INFO - Bot completed for oyingrace307@gmail.com. Output: [H[2J┌──────────────────────────────────────────────────┐
+│         LinkedIn Auto-Apply Bot         │
+└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                 User Information                 │
+├──────────────────────────────────────────────────┤
+│ Name: DevQueen                          │
+│ Email: oyingrace307@gmail.com           │
+│ Run Time: 2025-04-28 01:15:08                    │
+└──────────────────────────────────────────────────┘
+
+Successfully connected to MongoDB
+
+Bot execution logged to database
+
+Starting LinkedIn auto-apply process for oyingrace307@gmail.com...
+Processing step 1 of 5...
+Processing step 2 of 5...
+Processing step 3 of 5...
+Processing step 4 of 5...
+Processing step 5 of 5...
+
+Bot execution completed successfully!
+
+2025-04-28 01:32:29,157 - __main__ - INFO - Bot server starting up...
+2025-04-28 01:32:29,310 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.20.10.6:5000
+2025-04-28 01:32:29,310 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-04-28 01:33:49,675 - __main__ - INFO - Starting bot for user: oyingrace307@gmail.com
+2025-04-28 01:33:49,684 - werkzeug - INFO - 127.0.0.1 - - [28/Apr/2025 01:33:49] "POST /run-bot HTTP/1.1" 200 -
+2025-04-28 01:33:57,907 - __main__ - INFO - Bot completed for oyingrace307@gmail.com. Output: [H[2J┌──────────────────────────────────────────────────┐
+│         LinkedIn Auto-Apply Bot         │
+└──────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────┐
+│                 User Information                 │
+├──────────────────────────────────────────────────┤
+│ Name: DevQueen                          │
+│ Email: oyingrace307@gmail.com           │
+│ Run Time: 2025-04-28 01:33:50                    │
+└──────────────────────────────────────────────────┘
+
+Successfully connected to MongoDB
+
+Bot execution logged to database
+
+Starting LinkedIn auto-apply process for oyingrace307@gmail.com...
+Processing step 1 of 5...
+Processing step 2 of 5...
+Processing step 3 of 5...
+Processing step 4 of 5...
+Processing step 5 of 5...
+
+Bot execution completed successfully!
+
