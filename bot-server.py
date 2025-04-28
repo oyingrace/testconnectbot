@@ -146,9 +146,13 @@ def status():
     """Simple status endpoint to check if the service is running."""
     return jsonify({"status": "online"})
 
+# At the bottom of bot-server.py, change:
 if __name__ == '__main__':
+    # Get port from environment variable for Railway deployment
+    port = int(os.environ.get("PORT", 5000))
+    
     # Log startup
     logger.info("Bot server starting up...")
     
-    # Run the Flask app
-    app.run(host='0.0.0.0', port=5000)
+    # Run the Flask app on the specified port
+    app.run(host='0.0.0.0', port=port)

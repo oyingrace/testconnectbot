@@ -1,0 +1,7 @@
+{
+    "name": "linkedin-bot",
+    "version": "1.0.0",
+    "scripts": {
+      "start": "python bot-server.py"
+    }
+  }
